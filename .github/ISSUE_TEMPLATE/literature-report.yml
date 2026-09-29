@@ -1,0 +1,19 @@
+name: Literature report
+description: Writings found in new places (sent by the Lorever uploader, or pasted from /lorever export)
+title: "[report] Literature"
+labels: ["report", "literature"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping map the writings of Azeroth.
+        In game, type `/lorever export`, press Ctrl+C, and paste the text below.
+        It holds only titles, map positions and dates: no names.
+  - type: textarea
+    id: report
+    attributes:
+      label: Report
+      description: The text from /lorever export (starts with LRV1, ends with END).
+      render: text
+    validations:
+      required: true

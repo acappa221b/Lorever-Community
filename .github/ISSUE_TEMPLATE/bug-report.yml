@@ -1,0 +1,28 @@
+name: Bug report
+description: Something in Lorever does not work
+title: "[bug] "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what you expected, and what happened instead.
+    validations:
+      required: true
+  - type: textarea
+    id: error
+    attributes:
+      label: Lua error
+      description: If the game showed an error, paste it here (turn errors on with /console scriptErrors 1).
+      render: text
+  - type: input
+    id: version
+    attributes:
+      label: Lorever version
+      description: Shown in the AddOns list at character select.
+  - type: input
+    id: other
+    attributes:
+      label: Other add-ons
+      description: For example Questie, TomTom.

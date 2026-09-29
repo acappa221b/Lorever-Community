@@ -1,0 +1,23 @@
+name: Lore correction
+description: A mistake in a page of lore, or a figure or place that is missing
+title: "[lore] "
+labels: ["lore"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      description: The title of the page in Lorever.
+    validations:
+      required: true
+  - type: textarea
+    id: fix
+    attributes:
+      label: What is wrong, and what is right
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: Where the right fact comes from (a quest, an in-game book, Chronicle, a novel...).
