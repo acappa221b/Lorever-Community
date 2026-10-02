@@ -162,8 +162,8 @@ By default the narrator uses the game's own text to speech. If that sounds too r
 | Deutsch | [Lorever Narration (Deutsch)](https://www.curseforge.com/wow/addons/lorever-narration-deutsch) |
 | Français | [Lorever Narration (Français)](https://www.curseforge.com/wow/addons/lorever-narration-francais) |
 | Español (Spain and Latin America) | [Lorever Narration (Español)](https://www.curseforge.com/wow/addons/lorever-narration-espanol) |
-| 简体中文 | Lorever Narration (简体中文), on CurseForge |
-| Русский | Lorever Narration (Русский), on CurseForge |
+| 简体中文 | [Lorever Narration (简体中文)](https://www.curseforge.com/wow/addons/lorever-narration-chinese) |
+| Русский | [Lorever Narration (Русский)](https://www.curseforge.com/wow/addons/lorever-narration-russian) |
 
 - **Nothing to set up.** Install the pack beside Lorever. With the voice on Automatic, the narrator uses it by itself.
 - **Only an add-on.** Sound files and a small index. No program runs outside the game.
