@@ -12,8 +12,33 @@ This repository is the public home of the Lorever community: how the add-on work
 
 ---
 
+## English voice pack: download and install
+
+The English narration is ready: every page and every book, read by a calm, natural storyteller (about 30 hours). While it waits for approval on CurseForge, you can get it here.
+
+**[Download LoreverNarration_enUS-0.1.0.zip (564 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/narration-english-0.1.0/LoreverNarration_enUS-0.1.0.zip)**
+
+1. Install **Lorever** (version 1.6.0 or newer) from [CurseForge](https://www.curseforge.com/wow/addons/lorever).
+2. Download the zip with the link above.
+3. Open the zip. Inside there is one folder, `LoreverNarration_enUS`.
+4. Put that folder in your game's add-ons folder: `World of Warcraft\Interface\AddOns`. You should end with `Interface\AddOns\LoreverNarration_enUS` next to `Interface\AddOns\Lorever`.
+5. Start the game, or type `/reload` if it is already running.
+6. Open any Lorever page and press **Listen**. The narrator uses the pack by itself.
+
+Good to know:
+
+- The pack is used when Lorever shows its content in English, with the voice on **Automatic** or **Voice pack** in `/lorever narrator`.
+- If a line has no recording, the game's own voice reads that line. Nothing breaks.
+- The pack is only sound files and a small index. No program runs outside the game.
+- When the pack is approved on CurseForge, the CurseForge app will recognise the folder you installed and keep it up to date.
+
+More about the packs and the other languages: [Voice packs](#voice-packs).
+
+---
+
 ## Contents
 
+- [English voice pack: download and install](#english-voice-pack-download-and-install)
 - [How it works, from start to finish](#how-it-works-from-start-to-finish)
 - [What Lorever has today](#what-lorever-has-today)
 - [The book of lore](#the-book-of-lore)
