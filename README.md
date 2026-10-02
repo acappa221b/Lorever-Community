@@ -76,7 +76,7 @@ More about the packs and the other languages: [Voice packs](#voice-packs).
 
 4. **Watch your knowledge grow.** A banner tells you what you found. Each discovery gives experience to one of two bars: **Lore** or **Literature**. Neither level has a cap.
 5. **Read, or listen.** Every name in a page is a link to its own page. Press **Listen** and the narrator reads the page aloud while you keep playing.
-6. **Go after what is left.** Turquoise marks show the figures and writings you have not found yet: above their heads, on the world map and on the minimap. The Lore tracker lists the nearest ones, and **Route this zone** walks you past everything left, in the order of the shortest walk.
+6. **Go after what is left.** Turquoise marks show the figures and writings you have not found yet: above their heads, on the world map and on the minimap. The Lore tracker lists the nearest ones.
 
 ---
 
@@ -145,7 +145,6 @@ A catalogue of every book, letter, journal, legend and inscription in the world,
 | **Continent maps** | Each zone shows how many figures and writings are left there |
 | **Lore tracker** | A short list under the quest tracker: what you track, plus the nearest undiscovered lore of the zone, with distances |
 | **Track and waypoint** | Every page with a place has **Track** and **Set waypoint** |
-| **Route this zone** | Everything left in the zone, in the order of the shortest walk. It can include your quests too |
 | **Lore button on your target** | When your target is a figure with a page, a small book button appears by the target frame. Click it to read |
 | **Right-click a figure** | A right-click on a friendly figure that opens no window of its own opens its lore page. Never in combat |
 | **Tooltips** | "Lore: undiscovered", or the figure's page and how much of it you know |
@@ -222,7 +221,6 @@ When you meet a figure or open a book, the name your game shows becomes the name
 | `/lorever level` | Your Lore and Literature levels |
 | `/lorever options` | Opens the options |
 | `/lorever nameplates` | Turns on friendly NPC nameplates, so the turquoise marks can appear |
-| `/lorever route` | Route this zone: everything left to find, nearest first |
 | `/lorever listen` | The narrator reads the land you stand in |
 | `/lorever pause` | Pauses or resumes the narrator |
 | `/lorever stop` | Stops the narrator and clears its queue |
@@ -238,7 +236,7 @@ When you meet a figure or open a book, the name your game shows becomes the name
 | `/lorever export` | Your community reports, as text to paste in an issue here |
 | `/lorever where` | The current map, zone, subzone and position (useful in a lore correction) |
 
-Key bindings are under **Options > Keybindings > AddOns > Lorever**: open the book, narrator play or pause, read this land, route this zone. The minimap button opens the book with a click and the narrator with a right-click.
+Key bindings are under **Options > Keybindings > AddOns > Lorever**: open the book, narrator play or pause, read this land. The minimap button opens the book with a click and the narrator with a right-click.
 
 ---
 
@@ -250,7 +248,7 @@ Key bindings are under **Options > Keybindings > AddOns > Lorever**: open the bo
 | --- | --- |
 | **Progress** | Share lore across your characters, or let each character discover the world alone |
 | **Finding lore** | Marks above figures · marks on the world map · marks on the minimap · unread books on the map · lore left on continent maps · also mark discovered figures · discover figures at a glance (mouse over) |
-| **Tracker and routes** | Lore tracker · track the nearest lore · route my quests too |
+| **Tracker** | Lore tracker · track the nearest lore |
 | **Narrator** | Read lore aloud · narrator bar · pause in combat · read discoveries aloud · travel mode |
 | **Look** | Look of the book: Lorever, Dark or Classic |
 | **Windows and tooltips** | Lore tab in the quest log · minimap button · book button on the world map · lore button on your target · right-click a figure to open its lore · lore in quest windows · lore line on tooltips · Literature on item tooltips |
@@ -268,7 +266,7 @@ Hold **Shift** and drag to move the discovery banners, the Lore tab by the quest
 
 ## Works with other add-ons
 
-- **Questie:** fully compatible. The Lore tracker sits right under Questie's, routes can use Questie's quest points, and with **Use Questie icons** Lorever's marks are drawn by Questie and follow its show and hide buttons.
+- **Questie:** fully compatible. The Lore tracker sits right under Questie's, and with **Use Questie icons** Lorever's marks are drawn by Questie and follow its show and hide buttons.
 - **TomTom:** waypoints use TomTom's arrow when it is installed, else the game's own.
 
 ---
