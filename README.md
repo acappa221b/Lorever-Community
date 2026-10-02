@@ -24,6 +24,7 @@ This repository is the public home of the Lorever community: how the add-on work
 - [Languages](#languages)
 - [Commands](#commands)
 - [Options](#options)
+- [Move things where you like](#move-things-where-you-like)
 - [Works with other add-ons](#works-with-other-add-ons)
 - [Safe and private](#safe-and-private)
 - [Questions](#questions)
@@ -62,8 +63,9 @@ This repository is the public home of the Lorever community: how the add-on work
 | **Writings** | 330+ books, letters, journals, legends and inscriptions, each with where to find it |
 | **Progressions** | A **Lore** level and a **Literature** level, each with its own experience bar and no cap |
 | **Narrator** | Reads any page aloud, with a queue, a small control bar and a travel mode for flights |
-| **Voice packs** | Optional add-ons with every page already narrated by a storyteller: English, Português, Deutsch, Français, Español |
-| **Languages** | English, Português (Brasil), Deutsch, Français, Español (Spain and Latin America), 简体中文 |
+| **Voice packs** | Optional add-ons with every page already narrated by a storyteller: English, Português, Deutsch, Français, Español, 简体中文, Русский |
+| **Languages** | English, Português (Brasil), Deutsch, Français, Español (Spain and Latin America), 简体中文, Русский |
+| **Looks** | Three looks for the book: Lorever (parchment), Dark, and Classic (the game's quest window) |
 | **Price** | Free. No donations asked in game, no ads |
 
 ---
@@ -101,6 +103,9 @@ A catalogue of every book, letter, journal, legend and inscription in the world,
 - **By Region**, **Missing** (with where to find each one), **Read** and **Unlisted** (writings you read that the catalogue did not know yet).
 - Filter by kind: Books, Letters and Notes, Journals, Legends, Inscriptions. Search by title.
 - **Lorever ships no book text.** When you read a writing in the world, the pages you see are kept on your own computer, and the writing's page in Lorever shows them from then on.
+- **A note beside an open book** says how many of its pages are kept ("3 of 6 pages kept"). Lorever never turns a page for you: turn them yourself to keep the whole text.
+- **A writing in your bags is found** as soon as you pick it up, before you open it.
+- A writing with copies in several lands is listed in each of them, and its page says where you read it.
 - Item tooltips say whether you have read a book, letter or journal.
 
 ---
@@ -116,6 +121,8 @@ A catalogue of every book, letter, journal, legend and inscription in the world,
 | **Lore tracker** | A short list under the quest tracker: what you track, plus the nearest undiscovered lore of the zone, with distances |
 | **Track and waypoint** | Every page with a place has **Track** and **Set waypoint** |
 | **Route this zone** | Everything left in the zone, in the order of the shortest walk. It can include your quests too |
+| **Lore button on your target** | When your target is a figure with a page, a small book button appears by the target frame. Click it to read |
+| **Right-click a figure** | A right-click on a friendly figure that opens no window of its own opens its lore page. Never in combat |
 | **Tooltips** | "Lore: undiscovered", or the figure's page and how much of it you know |
 | **Quest windows** | A quest that reveals lore says so beside its window |
 
@@ -155,6 +162,8 @@ By default the narrator uses the game's own text to speech. If that sounds too r
 | Deutsch | [Lorever Narration (Deutsch)](https://www.curseforge.com/wow/addons/lorever-narration-deutsch) |
 | Français | [Lorever Narration (Français)](https://www.curseforge.com/wow/addons/lorever-narration-francais) |
 | Español (Spain and Latin America) | [Lorever Narration (Español)](https://www.curseforge.com/wow/addons/lorever-narration-espanol) |
+| 简体中文 | Lorever Narration (简体中文), on CurseForge |
+| Русский | Lorever Narration (Русский), on CurseForge |
 
 - **Nothing to set up.** Install the pack beside Lorever. With the voice on Automatic, the narrator uses it by itself.
 - **Only an add-on.** Sound files and a small index. No program runs outside the game.
@@ -171,7 +180,8 @@ By default the narrator uses the game's own text to speech. If that sounds too r
 | Deutsch | ✔ | ✔ | ✔ | ✔ |
 | Français | ✔ | ✔ | ✔ | ✔ |
 | Español (España y Latinoamérica) | ✔ | ✔ | ✔ | ✔ |
-| 简体中文 | ✔ | ✔ | ✔ | the game's voice |
+| 简体中文 | ✔ | ✔ | ✔ | ✔ |
+| Русский | ✔ | ✔ | ✔ | ✔ |
 
 Names of places, factions, races, classes and books are the **official names of each language's game client**. Lorever follows your game's language; `/lorever language` changes it. On any other client language, Lorever works in English.
 
@@ -195,7 +205,10 @@ When you meet a figure or open a book, the name your game shows becomes the name
 | `/lorever voices` | Lists the game's voices installed on your computer |
 | `/lorever voice <number>` | Picks the game voice the narrator uses (`/lorever voice auto` goes back to the automatic choice) |
 | `/lorever voicetest` | The narrator says one sentence and tells which voice it uses |
-| `/lorever language auto\|en\|pt\|de\|fr\|es\|zh` | The add-on's language (`auto` follows the game). Then `/reload` |
+| `/lorever language auto\|en\|pt\|de\|fr\|es\|zh\|ru` | The add-on's language (`auto` follows the game). Then `/reload` |
+| `/lorever theme lorever\|dark\|classic` | The look of the book |
+| `/lorever banner` | Shows a sample banner, to drag the banners where you want them |
+| `/lorever resetpos` | Puts the lore window, the banners and the buttons back in their places |
 | `/lorever found` | Where you found writings whose place the catalogue did not know |
 | `/lorever export` | Your community reports, as text to paste in an issue here |
 | `/lorever where` | The current map, zone, subzone and position (useful in a lore correction) |
@@ -214,9 +227,17 @@ Key bindings are under **Options > Keybindings > AddOns > Lorever**: open the bo
 | **Finding lore** | Marks above figures · marks on the world map · marks on the minimap · unread books on the map · lore left on continent maps · also mark discovered figures · discover figures at a glance (mouse over) |
 | **Tracker and routes** | Lore tracker · track the nearest lore · route my quests too |
 | **Narrator** | Read lore aloud · narrator bar · pause in combat · read discoveries aloud · travel mode |
-| **Windows and tooltips** | Lore tab in the quest log · minimap button · lore in quest windows · lore line on tooltips · Literature on item tooltips |
+| **Look** | Look of the book: Lorever, Dark or Classic |
+| **Windows and tooltips** | Lore tab in the quest log · minimap button · book button on the world map · lore button on your target · right-click a figure to open its lore · lore in quest windows · lore line on tooltips · Literature on item tooltips |
+| **Books** | Pages kept, beside an open book · find writings by picking them up |
 | **Banners** | Discovery banners · discovery sounds |
 | **Questie** | Use Questie icons |
+
+---
+
+## Move things where you like
+
+Hold **Shift** and drag to move the discovery banners, the Lore tab by the quest log, the book buttons on the map and the lore button on your target. The lore window moves by dragging its top, and opens again where you left it. `/lorever resetpos` puts everything back.
 
 ---
 
@@ -272,7 +293,7 @@ Only the title of each writing, its map position, how many times it was seen, da
 
 - **The lore.** All of Lorever's lore was written with the help of AI. The AI worked only from facts found in the game itself and in Blizzard's official sources, and was told never to invent events, family ties or "lost chapters". The text is our own: no book, quest or dialogue text from the game is copied into the add-on. The translations were also made with AI, using each game client's official names for places, factions, races, classes and books. If you spot a mistake, please tell us and we will fix it.
 - **The game's own voice.** By default, Lorever reads with World of Warcraft's built-in text to speech. No AI is involved.
-- **The voice packs (optional).** The narration in the Lorever Narration packs was generated with AI text-to-speech models, on the author's own computer: Kokoro-82M (Apache-2.0) for English, Português and Español, and Piper voices (CC0) for Deutsch and Français. Only Lorever's own text is read. The packs hold no audio, text or art from Blizzard, and no text from the game's books. No online AI service was used, and no real person's voice was cloned or imitated.
+- **The voice packs (optional).** The narration in the Lorever Narration packs was generated with AI text-to-speech models, on the author's own computer: Kokoro-82M (Apache-2.0) for English, Português, Español and 简体中文, and Piper voices (CC0) for Deutsch, Français and Русский. Only Lorever's own text is read. The packs hold no audio, text or art from Blizzard, and no text from the game's books. No online AI service was used, and no real person's voice was cloned or imitated.
 
 ---
 
