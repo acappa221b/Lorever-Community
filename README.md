@@ -18,19 +18,19 @@ Every language has two voices: every lore page, already narrated by a natural st
 
 | Language | Voice | Download |
 | --- | --- | --- |
-| English | Michael | [LoreverNarration_enUS-0.1.0.zip (564 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/narration-english-0.1.0/LoreverNarration_enUS-0.1.0.zip) |
-| English | Heart | [LoreverNarration_enUS_F-0.1.0.zip (537 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/narration-enus-heart-0.1.0/LoreverNarration_enUS_F-0.1.0.zip) |
-| Português (Brasil) | Santa | [LoreverNarration_ptBR-0.1.0.zip (566 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/narration-ptbr-santa-0.1.0/LoreverNarration_ptBR-0.1.0.zip) |
-| Português (Brasil) | Dora | [LoreverNarration_ptBR_F-0.1.0.zip (538 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/narration-ptbr-dora-0.1.0/LoreverNarration_ptBR_F-0.1.0.zip) |
-| Deutsch | Thorsten | [LoreverNarration_deDE-0.1.0.zip (550 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/narration-dede-thorsten-0.1.0/LoreverNarration_deDE-0.1.0.zip) |
-| Deutsch | Kerstin | [LoreverNarration_deDE_F-0.1.0.zip (523 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/narration-dede-kerstin-0.1.0/LoreverNarration_deDE_F-0.1.0.zip) |
-| Français | Gilles | [LoreverNarration_frFR-0.1.0.zip (557 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/narration-frfr-gilles-0.1.0/LoreverNarration_frFR-0.1.0.zip) |
-| Français | Siwis | [LoreverNarration_frFR_F-0.1.0.zip (559 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/narration-frfr-siwis-0.1.0/LoreverNarration_frFR_F-0.1.0.zip) |
-| Español | Santa | [LoreverNarration_esES-0.1.0.zip (588 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/narration-eses-santa-0.1.0/LoreverNarration_esES-0.1.0.zip) |
-| Español | Dora | [LoreverNarration_esES_F-0.1.0.zip (558 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/narration-eses-dora-0.1.0/LoreverNarration_esES_F-0.1.0.zip) |
-| 简体中文 | Yunxi | [LoreverNarration_zhCN-0.1.0.zip (469 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/narration-zhcn-yunxi-0.1.0/LoreverNarration_zhCN-0.1.0.zip) |
-| 简体中文 | Xiaoxiao | [LoreverNarration_zhCN_F-0.1.0.zip (515 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/narration-zhcn-xiaoxiao-0.1.0/LoreverNarration_zhCN_F-0.1.0.zip) |
-| Русский | Dmitri | [LoreverNarration_ruRU-0.1.0.zip (507 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/narration-ruru-dmitri-0.1.0/LoreverNarration_ruRU-0.1.0.zip) |
+| English | Michael | [LoreverNarration_enUS-0.1.0.zip (564 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/Lorever-Narration-English-Michael/LoreverNarration_enUS-0.1.0.zip) |
+| English | Heart | [LoreverNarration_enUS_F-0.1.0.zip (537 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/Lorever-Narration-English-Heart/LoreverNarration_enUS_F-0.1.0.zip) |
+| Português (Brasil) | Santa | [LoreverNarration_ptBR-0.1.0.zip (566 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/Lorever-Narration-Portugues-do-Brasil-Santa/LoreverNarration_ptBR-0.1.0.zip) |
+| Português (Brasil) | Dora | [LoreverNarration_ptBR_F-0.1.0.zip (538 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/Lorever-Narration-Portugues-do-Brasil-Dora/LoreverNarration_ptBR_F-0.1.0.zip) |
+| Deutsch | Thorsten | [LoreverNarration_deDE-0.1.0.zip (550 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/Lorever-Narration-Deutsch-Thorsten/LoreverNarration_deDE-0.1.0.zip) |
+| Deutsch | Kerstin | [LoreverNarration_deDE_F-0.1.0.zip (523 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/Lorever-Narration-Deutsch-Kerstin/LoreverNarration_deDE_F-0.1.0.zip) |
+| Français | Gilles | [LoreverNarration_frFR-0.1.0.zip (557 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/Lorever-Narration-Francais-Gilles/LoreverNarration_frFR-0.1.0.zip) |
+| Français | Siwis | [LoreverNarration_frFR_F-0.1.0.zip (559 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/Lorever-Narration-Francais-Siwis/LoreverNarration_frFR_F-0.1.0.zip) |
+| Español | Santa | [LoreverNarration_esES-0.1.0.zip (588 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/Lorever-Narration-Espanol-Santa/LoreverNarration_esES-0.1.0.zip) |
+| Español | Dora | [LoreverNarration_esES_F-0.1.0.zip (558 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/Lorever-Narration-Espanol-Dora/LoreverNarration_esES_F-0.1.0.zip) |
+| 简体中文 | Yunxi | [LoreverNarration_zhCN-0.1.0.zip (469 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/Lorever-Narration-Chinese-Yunxi/LoreverNarration_zhCN-0.1.0.zip) |
+| 简体中文 | Xiaoxiao | [LoreverNarration_zhCN_F-0.1.0.zip (515 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/Lorever-Narration-Chinese-Xiaoxiao/LoreverNarration_zhCN_F-0.1.0.zip) |
+| Русский | Dmitri | [LoreverNarration_ruRU-0.1.0.zip (507 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/Lorever-Narration-Russian-Dmitri/LoreverNarration_ruRU-0.1.0.zip) |
 
 1. Install **Lorever** (version 1.8.0 or newer) from [CurseForge](https://www.curseforge.com/wow/addons/lorever).
 2. Download a zip from the table.
