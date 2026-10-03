@@ -12,33 +12,47 @@ This repository is the public home of the Lorever community: how the add-on work
 
 ---
 
-## English voice pack: download and install
+## Voice packs: download and install
 
-The English narration is ready: every page and every book, read by a calm, natural storyteller (about 30 hours). While it waits for approval on CurseForge, you can get it here.
+Every language has two voices: every lore page, already narrated by a natural storyteller (about 30 hours). Pick the one you like, or install both.
 
-**[Download LoreverNarration_enUS-0.1.0.zip (564 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/narration-english-0.1.0/LoreverNarration_enUS-0.1.0.zip)**
+| Language | Voice | Download |
+| --- | --- | --- |
+| English | Michael | [LoreverNarration_enUS-0.1.0.zip (564 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/narration-english-0.1.0/LoreverNarration_enUS-0.1.0.zip) |
+| English | Heart | [LoreverNarration_enUS_F-0.1.0.zip (537 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/narration-enus-heart-0.1.0/LoreverNarration_enUS_F-0.1.0.zip) |
+| Português (Brasil) | Santa | [LoreverNarration_ptBR-0.1.0.zip (566 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/narration-ptbr-santa-0.1.0/LoreverNarration_ptBR-0.1.0.zip) |
+| Português (Brasil) | Dora | [LoreverNarration_ptBR_F-0.1.0.zip (538 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/narration-ptbr-dora-0.1.0/LoreverNarration_ptBR_F-0.1.0.zip) |
+| Deutsch | Thorsten | [LoreverNarration_deDE-0.1.0.zip (550 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/narration-dede-thorsten-0.1.0/LoreverNarration_deDE-0.1.0.zip) |
+| Deutsch | Kerstin | [LoreverNarration_deDE_F-0.1.0.zip (523 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/narration-dede-kerstin-0.1.0/LoreverNarration_deDE_F-0.1.0.zip) |
+| Français | Gilles | [LoreverNarration_frFR-0.1.0.zip (557 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/narration-frfr-gilles-0.1.0/LoreverNarration_frFR-0.1.0.zip) |
+| Français | Siwis | [LoreverNarration_frFR_F-0.1.0.zip (559 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/narration-frfr-siwis-0.1.0/LoreverNarration_frFR_F-0.1.0.zip) |
+| Español | Santa | [LoreverNarration_esES-0.1.0.zip (588 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/narration-eses-santa-0.1.0/LoreverNarration_esES-0.1.0.zip) |
+| Español | Dora | [LoreverNarration_esES_F-0.1.0.zip (558 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/narration-eses-dora-0.1.0/LoreverNarration_esES_F-0.1.0.zip) |
+| 简体中文 | Yunxi | [LoreverNarration_zhCN-0.1.0.zip (469 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/narration-zhcn-yunxi-0.1.0/LoreverNarration_zhCN-0.1.0.zip) |
+| 简体中文 | Xiaoxiao | [LoreverNarration_zhCN_F-0.1.0.zip (515 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/narration-zhcn-xiaoxiao-0.1.0/LoreverNarration_zhCN_F-0.1.0.zip) |
+| Русский | Dmitri | [LoreverNarration_ruRU-0.1.0.zip (507 MB)](https://github.com/acappa221b/Lorever-Community/releases/download/narration-ruru-dmitri-0.1.0/LoreverNarration_ruRU-0.1.0.zip) |
 
-1. Install **Lorever** (version 1.6.0 or newer) from [CurseForge](https://www.curseforge.com/wow/addons/lorever).
-2. Download the zip with the link above.
-3. Open the zip. Inside there is one folder, `LoreverNarration_enUS`.
-4. Put that folder in your game's add-ons folder: `World of Warcraft\Interface\AddOns`. You should end with `Interface\AddOns\LoreverNarration_enUS` next to `Interface\AddOns\Lorever`.
+1. Install **Lorever** (version 1.8.0 or newer) from [CurseForge](https://www.curseforge.com/wow/addons/lorever).
+2. Download a zip from the table.
+3. Open the zip. Inside there is one folder, for example `LoreverNarration_enUS`.
+4. Put that folder in your game's add-ons folder: `World of Warcraft\Interface\AddOns`, next to `Interface\AddOns\Lorever`.
 5. Start the game, or type `/reload` if it is already running.
-6. Open any Lorever page and press **Listen**. The narrator uses the pack by itself.
+6. Open any Lorever page and press **Listen**.
 
 Good to know:
 
-- The pack is used when Lorever shows its content in English, with the voice on **Automatic** or **Voice pack** in `/lorever narrator`.
-- If a line has no recording, the game's own voice reads that line. Nothing breaks.
-- The pack is only sound files and a small index. No program runs outside the game.
-- When the pack is approved on CurseForge, the CurseForge app will recognise the folder you installed and keep it up to date.
+- A pack is used when Lorever shows its content in that pack's language, with the voice on **Automatic** or **Voice pack** in `/lorever narrator`.
+- With two voices for one language, choose one under **Pack** in `/lorever narrator`.
+- If a line has no recording, your other pack or the game's own voice reads that line. Nothing breaks.
+- A pack is only sound files and a small index. No program runs outside the game.
 
-More about the packs and the other languages: [Voice packs](#voice-packs).
+More about the packs, CurseForge and recording your own voice: [Voice packs](#voice-packs).
 
 ---
 
 ## Contents
 
-- [English voice pack: download and install](#english-voice-pack-download-and-install)
+- [Voice packs: download and install](#voice-packs-download-and-install)
 - [How it works, from start to finish](#how-it-works-from-start-to-finish)
 - [What Lorever has today](#what-lorever-has-today)
 - [The book of lore](#the-book-of-lore)
@@ -192,6 +206,8 @@ By default the narrator uses the game's own text to speech. If that sounds too r
 - **Nothing to set up.** Install the pack beside Lorever. With the voice on Automatic, the narrator uses it by itself.
 - **Only an add-on.** Sound files and a small index. No program runs outside the game.
 - **Never silent.** A line without a recording (new text after an update) is read by the game's own voice.
+- **Two voices per language.** The packs on CurseForge use the first voice. Both voices of every language are in the table at the [top of this page](#voice-packs-download-and-install). Choose between your packs under **Pack** in `/lorever narrator`.
+- **Your own voice.** With [Lorever Voice Studio](https://github.com/acappa221b/Lorever-Voice/releases/latest), a free Windows app, you read the lore aloud and export a pack of your own (English, the lands of levels 1 to 20 for now).
 
 ---
 
@@ -316,7 +332,7 @@ Only the title of each writing, its map position, how many times it was seen, da
 
 - **The lore.** All of Lorever's lore was written with the help of AI. The AI worked only from facts found in the game itself and in Blizzard's official sources, and was told never to invent events, family ties or "lost chapters". The text is our own: no book, quest or dialogue text from the game is copied into the add-on. The translations were also made with AI, using each game client's official names for places, factions, races, classes and books. If you spot a mistake, please tell us and we will fix it.
 - **The game's own voice.** By default, Lorever reads with World of Warcraft's built-in text to speech. No AI is involved.
-- **The voice packs (optional).** The narration in the Lorever Narration packs was generated with AI text-to-speech models, on the author's own computer: Kokoro-82M (Apache-2.0) for English, Português, Español and 简体中文, and Piper voices (CC0) for Deutsch, Français and Русский. Only Lorever's own text is read. The packs hold no audio, text or art from Blizzard, and no text from the game's books. No online AI service was used, and no real person's voice was cloned or imitated.
+- **The voice packs (optional).** The narration in the Lorever Narration packs was generated with AI text-to-speech models, on the author's own computer: Kokoro-82M (Apache-2.0) for English, Português, Español, 简体中文 and the Siwis voice in Français, and Piper voices (CC0) for Deutsch, the Gilles voice in Français and Русский. Packs that players record with Lorever Voice Studio hold their own voice. Only Lorever's own text is read. The packs hold no audio, text or art from Blizzard, and no text from the game's books. No online AI service was used, and no real person's voice was cloned or imitated.
 
 ---
 
