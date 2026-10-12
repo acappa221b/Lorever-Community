@@ -261,7 +261,7 @@ Key bindings are under **Options > Keybindings > AddOns > Lorever**: open the bo
 
 ## Options
 
-**Esc > Options > AddOns > Lorever.** Every part of Lorever can be turned off on its own.
+Lorever's options have a window of their own. Open it with the **gear** at the top of the book of lore, **Shift-click** on the minimap button, the **Voice** button on the narrator bar, or `/lorever options`. Every part of Lorever can be turned off on its own.
 
 | Group | Options |
 | --- | --- |
